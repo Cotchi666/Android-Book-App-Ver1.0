@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<navigation xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/mobile_navigation"
+    app:startDestination="@+id/nav_home">
+
+    <fragment
+        android:id="@+id/nav_home"
+        android:name="com.example.doancuoiky.activity.ui.home.HomeFragment"
+        android:label="@string/menu_home"
+        tools:layout="@layout/fragment_home" />
+
+    <fragment
+        android:id="@+id/nav_accInfo"
+        android:name="com.example.doancuoiky.activity.ui.accInfo.GalleryFragment"
+        android:label="@string/menu_accInfo"
+        tools:layout="@layout/fragment_acc_info" />
+
+    <fragment
+        android:id="@+id/nav_Cart"
+        android:name="com.example.doancuoiky.activity.ui.cart.CartFragment"
+        android:label="@string/menu_Cart"
+        tools:layout="@layout/cart_activity" />
+    <fragment
+        android:id="@+id/nav_Contacts"
+        android:name="com.example.doancuoiky.activity.ui.contacts.ContactsFragment"
+        android:label="@string/menu_contacts"
+        tools:layout="@layout/fragment_contacts" />
+    <fragment
+        android:id="@+id/nav_Logout"
+        android:name="com.example.doancuoiky.activity.ui.logout.LogOutFragment"
+        android:label="@string/menu_contacts"
+        tools:layout="@layout/find_fragment" />
+    <fragment
+        android:id="@+id/nav_History"
+        android:name="com.example.doancuoiky.activity.ui.hisotry.HistoryFragment"
+        android:label="@string/history"
+        tools:layout="@layout/lich_su_don_hang" />
+
+</navigation>

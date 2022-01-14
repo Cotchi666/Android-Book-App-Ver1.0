@@ -1,0 +1,36 @@
+<resources>
+
+    <string name="app_name">BookApp</string>
+    <string name="title_activity_main">MainActivity</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">Android Studio</string>
+    <string name="nav_header_subtitle">android.studio@android.com</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="action_settings">Settings</string>
+    <string name="menu_home">Trang chủ</string>
+    <string name="menu_accInfo">Thông tin tài khoản</string>
+    <string name="menu_Cart">Giỏ hàng</string>
+    <string name="menu_contacts">Liên hệ</string>
+    <string name="menu_logout">Đăng xuất></string>
+    <string name="fullName_infoACC">Họ và tên</string>
+    <string name="address_infoACC">Địa chỉ</string>
+    <string name="phoneNumber_infoACC">Số Điện thoại</string>
+    <string name="changePass_infoACC">Thay đổ mật khẩu</string>
+    <string name="logOut_infoACC">Đăng xuất</string>
+    <string name="back">Trở lại</string>
+    <string name="introduce">Giới thiệu</string>
+    <string name="Your_information">Thông tin của bạn</string>
+    <string name="order">Đặt hàng</string>
+    <string name="cancel">Hủy</string>
+    <string name="update">Cập nhật</string>
+    <string name="save_password">Lưu mật khẩu</string>
+    <string name="login">Đăng Nhập</string>
+    <string name="create_account">Chưa có tài khoản?Tạo tài khoản</string>
+    <string name="fogot_password">Quên mật khẩu?</string>
+    <string name="password">Mật khẩu</string>
+    <string name="send">Gửi</string>
+    <string name="confirm_pass">Xác nhận mật khẩu</string>
+    <string name="sign_up">Đăng ký</string>
+    <string name="history">Lịch sử</string>
+</resources>

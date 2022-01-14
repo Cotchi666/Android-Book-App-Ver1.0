@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "523767647272",
+    "project_id": "direct-plasma-254107",
+    "storage_bucket": "direct-plasma-254107.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:523767647272:android:da31e3329cb737d806b91d",
+        "android_client_info": {
+          "package_name": "com.example.doancuoiky"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "523767647272-e65f80gri7kct0toublm633hf1dp3bc2.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD3V53gnsowradaPc8MA8mbFmAOwTsv_6w"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "523767647272-e65f80gri7kct0toublm633hf1dp3bc2.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

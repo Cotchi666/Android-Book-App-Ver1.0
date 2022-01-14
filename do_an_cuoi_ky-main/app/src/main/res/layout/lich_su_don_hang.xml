@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    >
+    <TextView
+        android:id="@+id/textView19"
+        android:textSize="20dp"
+        android:layout_marginTop="10dp"
+        android:gravity="center"
+        android:textColor="#AE2020"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Danh sách sản phẩm đã đặt" />
+    <ListView
+        android:id="@+id/list_view_ls"
+        android:layout_width="match_parent"
+        android:layout_height="360dp"
+        android:layout_marginBottom="20dp" />
+
+
+    <Button
+        android:id="@+id/button_xacnhan"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Xác nhận đã nhận hàng" />
+
+    <Button
+
+        android:id="@+id/button_back_ls"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="@string/back" />
+</LinearLayout>
